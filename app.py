@@ -13,9 +13,7 @@ USER_INFO = {
 }
 
 def categorize_data(data_array):
-    """
-    Categorize the input data into numbers, alphabets, and special characters
-    """
+
     odd_numbers = []
     even_numbers = []
     alphabets = []

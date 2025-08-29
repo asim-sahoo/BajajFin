@@ -22,7 +22,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-README.md
+
 # PyInstaller
 *.manifest
 *.spec
@@ -78,4 +78,6 @@ Thumbs.db
 *.log
 
 # Local development
+.vercel
+
 .vercel

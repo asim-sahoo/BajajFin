@@ -117,18 +117,12 @@ def process_data():
 
 @app.route('/bfhl', methods=['GET'])
 def get_operation_code():
-    """
-    GET endpoint to return operation code
-    """
     return jsonify({
         "operation_code": 1
     }), 200
 
 @app.route('/', methods=['GET'])
 def health_check():
-    """
-    Health check endpoint
-    """
     return jsonify({
         "message": "BFHL API is running",
         "status": "healthy"

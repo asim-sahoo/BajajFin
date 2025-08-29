@@ -8,7 +8,7 @@ CORS(app)
 
 USER_INFO = {
     "user_id": "asim_sahoo_22072004",
-    "email": "asim2018off@gmail.com",
+    "email": "asimsahoo2022@vitbhopal.ac.in",
     "roll_number": "22BCE10267"
 }
 
